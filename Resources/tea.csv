@@ -1,0 +1,59 @@
+item_no,Category,Beverage,Prep,Calories,Total_Fat(g),Trans_Fat(g),Saturated_Fat(g),Sodium_(mg),Total_Carbohydrates(g),Cholesterol(mg),Dietary_Fibre(g),Sugars(g),Protein(g),Vitamin_A(% DV),Vitamin_C(% DV),Calcium(% DV),Iron(% DV),Caffeine(mg)
+1103,Tazo® Tea Drinks,Tazo® Tea,Short,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0,0,0,0,Varies
+1104,Tazo® Tea Drinks,Tazo® Tea,Tall,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0,0,0,0,Varies
+1105,Tazo® Tea Drinks,Tazo® Tea,Grande,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0,0,0,0,Varies
+1106,Tazo® Tea Drinks,Tazo® Tea,Venti,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0,0,0,0,Varies
+1107,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Short Nonfat Milk,100,0.1,0.1,0.0,0,50,22,0,21,4.0,6,0,10,0,50
+1108,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Short 2% Milk,120,2.0,1.0,0.1,10,55,22,0,21,4.0,6,0,10,0,50
+1109,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Short Soymilk,110,1.5,0.2,0.0,0,45,20,0,18,3.0,4,0,10,6,50
+1110,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Tall Nonfat Milk,160,0.2,0.1,0.0,5,80,34,0,32,6.0,10,0,20,2,70
+1111,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Tall 2% Milk,190,3.5,1.5,0.1,15,90,34,0,32,6.0,10,0,20,2,70
+1112,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Tall Soymilk,160,2.5,0.3,0.0,0,70,31,1,28,5.0,6,0,20,10,70
+1113,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Grande Nonfat Milk,210,0.2,0.1,0.0,5,105,45,0,43,8.0,15,0,25,2,95
+1114,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Grande 2% Milk,240,4.5,2.0,0.1,20,115,45,0,42,8.0,10,0,25,2,95
+1115,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Grande Soymilk,220,3.5,0.4,0.0,0,90,41,1,37,6.0,8,0,25,10,95
+1116,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Venti Nonfat Milk,260,0.3,0.2,0.0,5,135,57,0,54,10.0,15,0,35,2,120
+1117,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Venti 2% Milk,310,6.0,3.0,0.2,25,150,56,0,53,10.0,15,2,30,2,120
+1118,Tazo® Tea Drinks,Tazo® Chai Tea Latte,Venti Soymilk,280,4.5,0.5,0.0,0,115,51,1,46,8.0,10,0,30,15,120
+1119,Tazo® Tea Drinks,Tazo® Green Tea Latte,Short Nonfat Milk,130,0.2,0.1,0.0,5,85,26,0,25,7.0,10,4,20,2,25
+1120,Tazo® Tea Drinks,Tazo® Green Tea Latte,Short 2% Milk,170,4.0,2.0,0.1,15,95,26,0,25,7.0,10,6,20,2,25
+1121,Tazo® Tea Drinks,Tazo® Green Tea Latte,Short Soymilk,140,3.0,0.4,0.0,0,70,22,1,20,6.0,8,4,20,10,25
+1122,Tazo® Tea Drinks,Tazo® Green Tea Latte,Tall Nonfat Milk,210,0.4,0.2,0.0,5,125,42,1,41,11.0,20,10,35,4,55
+1123,Tazo® Tea Drinks,Tazo® Green Tea Latte,Tall 2% Milk,260,6.0,3.0,0.2,25,140,41,1,40,10.0,15,10,35,4,55
+1124,Tazo® Tea Drinks,Tazo® Green Tea Latte,Tall Soymilk,230,4.5,0.5,0.0,0,110,36,2,33,9.0,10,10,35,15,55
+1125,Tazo® Tea Drinks,Tazo® Green Tea Latte,Grande Nonfat Milk,290,0.5,0.2,0.0,10,160,57,1,56,14.0,25,15,45,4,80
+1126,Tazo® Tea Drinks,Tazo® Green Tea Latte,Grande 2% Milk,350,8.0,4.0,0.2,30,180,57,1,55,14.0,20,15,45,4,80
+1127,Tazo® Tea Drinks,Tazo® Green Tea Latte,Grande Soymilk,310,6.0,1.0,0.0,0,140,50,3,46,11.0,15,15,45,25,80
+1128,Tazo® Tea Drinks,Tazo® Green Tea Latte,Venti Nonfat Milk,370,0.5,0.3,0.0,10,200,73,2,71,18.0,30,20,60,6,110
+1129,Tazo® Tea Drinks,Tazo® Green Tea Latte,Venti 2% Milk,450,10.0,5.0,0.3,40,230,72,2,71,17.0,25,20,50,6,110
+1130,Tazo® Tea Drinks,Tazo® Green Tea Latte,Venti Soymilk,390,8.0,1.0,0.0,0,180,64,4,58,14.0,20,20,60,30,110
+1131,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Short Nonfat Milk,80,0.1,0.1,0.0,0,45,16,0,16,4.0,6,0,10,0,varies
+1132,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Short 2% Milk,90,2.0,1.0,0.1,10,50,15,0,15,3.0,6,0,10,0,varies
+1133,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Short Soymilk,80,1.5,0.2,0.0,0,40,14,0,13,3.0,4,0,10,60,varies
+1134,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Tall Nonfat Milk,120,0.1,0.1,0.0,5,65,23,0,23,5.0,10,0,20,0,varies
+1135,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Tall 2% Milk,140,3.0,1.5,0.1,15,75,23,0,23,5.0,8,0,15,0,varies
+1136,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Tall Soymilk,130,2.5,0.3,0.0,0,60,21,1,19,4.0,6,0,20,80,varies
+1137,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Grande Nonfat Milk,150,0.2,0.1,0.0,5,85,31,0,31,7.0,15,0,25,0,varies
+1138,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Grande 2% Milk,190,4.0,2.0,0.1,15,95,31,0,30,7.0,10,0,25,0,varies
+1139,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Grande Soymilk,170,3.5,0.4,0.0,0,80,27,1,25,6.0,8,0,25,100,varies
+1140,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Venti Nonfat Milk,190,0.2,0.1,0.0,5,110,39,0,39,9.0,15,0,30,0,varies
+1141,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Venti 2% Milk,230,5.0,2.5,0.2,20,125,38,0,38,9.0,15,0,30,0,varies
+1142,Tazo® Tea Drinks,Tazo® Full-Leaf Tea Latte,Venti Soymilk,210,4.0,0.5,0.0,0,100,34,1,32,7.0,10,0,30,150,varies
+1143,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Short Nonfat Milk,80,0.1,0.1,0.0,0,45,16,0,16,4.0,6,0,10,0,0
+1144,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Short 2% Milk,90,2.0,1.0,0.1,10,50,15,0,15,3.0,6,0,10,0,0
+1145,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Short Soymilk,80,1.5,0.2,0.0,0,40,14,0,13,3.0,4,0,10,6,0
+1146,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tall Nonfat Milk,120,0.1,0.1,0.0,5,65,23,0,23,5.0,10,0,20,0,0
+1147,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tall 2% Milk,140,3.0,1.5,0.1,15,75,23,0,23,5.0,8,0,15,0,0
+1148,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tall Soymilk,130,2.5,0.3,0.0,0,60,21,1,19,4.0,6,0,20,8,0
+1149,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Grande Nonfat Milk,150,0.2,0.1,0.0,5,85,31,0,31,7.0,15,0,25,0,0
+1150,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Grande 2% Milk,190,4.0,2.0,0.1,15,95,31,0,30,7.0,10,0,25,0,0
+1151,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Grande Soymilk,170,3.5,0.4,0.0,0,80,27,1,25,6.0,8,0,25,10,0
+1152,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Venti Nonfat Milk,190,0.2,0.1,0.0,5,110,39,0,39,9.0,15,0,30,0,0
+1153,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Venti 2% Milk,230,5.0,2.5,0.2,20,125,38,0,38,9.0,15,0,30,0,0
+1154,Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Venti Soymilk,210,4.0,0.5,0.0,0,100,34,1,32,7.0,10,0,30,15,0
+1167,Shaken Iced Beverages,Shaken Iced Tazo® Tea (With Classic Syrup),Tall,60,0.0,0.0,0.0,0,0,15,0,15,0.0,0,0,0,6,170
+1168,Shaken Iced Beverages,Shaken Iced Tazo® Tea (With Classic Syrup),Grande,80,0.0,0.0,0.0,0,0,21,0,21,0.0,0,0,0,0,Varies
+1169,Shaken Iced Beverages,Shaken Iced Tazo® Tea (With Classic Syrup),Venti,120,0.0,0.0,0.0,0,0,31,0,31,0.0,0,0,0,0,Varies
+1170,Shaken Iced Beverages,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Tall,100,0.0,0.0,0.0,0,0,25,0,24,0.1,0,10,0,0,Varies
+1171,Shaken Iced Beverages,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Grande,130,0.0,0.0,0.0,0,0,33,0,33,0.1,0,15,0,0,Varies
+1172,Shaken Iced Beverages,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Venti,190,0.0,0.0,0.0,0,0,49,0,49,0.1,0,20,0,0,Varies
