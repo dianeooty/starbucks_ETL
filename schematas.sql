@@ -8,29 +8,6 @@ CREATE TABLE full_menu(
 	Protein FLOAT
 );
 
--- CREATE TABLE drinks(
--- 	item_no INT PRIMARY KEY NOT NULL,
--- 	Category VARCHAR(100) NOT NULL,
--- 	Beverage VARCHAR(100) NOT NULL,
--- 	Prep VARCHAR(100),
--- 	Calories INT,
--- 	Total_Fat FLOAT,
--- 	Trans_Fat FLOAT,
--- 	Saturated_Fat FLOAT,
--- 	Sodium INT,
--- 	Total_Carbohydrates(g) INT,
--- 	Cholesterol INT,
--- 	Dietary_Fibre INT,
--- 	Sugars INT,
--- 	Protein FLOAT,
--- 	Vitamin_A_% VARCHAR(100),
--- 	Vitamin_C_% VARCHAR(100),
--- 	Calcium_% VARCHAR(100),
--- 	Iron_% VARCHAR(100),
--- 	Caffeine VARCHAR(100),
--- 	FOREIGN KEY(item_no) REFERENCES full_menu(item_no)
--- );
-
 CREATE TABLE coffee(
 	item_no INT PRIMARY KEY NOT NULL,
 	Category VARCHAR(100) NOT NULL,
