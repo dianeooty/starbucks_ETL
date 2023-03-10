@@ -27,7 +27,7 @@ I utilized three datasets for this project: directory, drink menu and food menu.
 
 
 ## Setup
-An image of the ERD and the database schema can be referenced in the repository file. All excel and csv files are located in the Resources folder for reference.
+An image of the ERD and the database schema can be referenced in the repository file. All images, excel and csv files are located in the Resources folder for reference.
 
 
 ## Project Status
