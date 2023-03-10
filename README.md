@@ -24,7 +24,9 @@ I utilized three datasets for this project: directory, drink menu and food menu.
 
 
 ## Screenshots
-
+![1](https://user-images.githubusercontent.com/117790100/224202072-a82180ce-5879-4256-bfbe-8c74133e2fe1.png)
+![2](https://user-images.githubusercontent.com/117790100/224202076-2eb0cf7d-c85e-4443-a058-dd1e94465678.png)
+![3](https://user-images.githubusercontent.com/117790100/224202079-0d705a75-f4e3-4c98-b28e-39880db8bdcd.png)
 
 ## Setup
 An image of the ERD and the database schema can be referenced in the repository file. All images, excel and csv files are located in the Resources folder for reference.
